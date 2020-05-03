@@ -2,9 +2,10 @@
 ### Descrição do repositório
 
 
-Este repositório funciona como uma base de consulta sobre tópicos relacionados a deep learning. O objetivo deste repositório é catalogar conteúdos e informações importantes sobre deep learning que foram úteis ou interessantes durante minhas experiências.
+O objetivo desse repositório é oferecer um roteiro de estudo para deep learning, que possa ser utilizado para iniciantes ou para consultas. Sinta-se convidado para colaborar caso tenha algo para compartilhar, criticar ou corrigir.
 
-#### Linguagem de Programação
+
+### Linguagem de Programação
 
 #### Python
 Atualmente Python é uma das principais linguagens de programação para quem deseja trabalhar com Machine Learning. Esta linguagem oferece uma abstração mais clara e fácil de usar, possibilitando uma curva de aprendizado maior. As melhores bibliotecas  de ML mais  oferecem interface de aplicação para que você possa programar em Python e, ao executar o código, elas utilizam funções em C/C++ por baixo dos panos, devido à velocidade destas linguagens. 
@@ -51,7 +52,7 @@ Resultado:
 ![enter image description here](https://miro.medium.com/max/668/1*KqH6anQf3HhAtDnq-6uBdg.png)
 
 
-#### Data mining
+### Data mining
 
 Limpeza de dados
 Padronização de dados
@@ -59,12 +60,15 @@ Tipos de dados
 Features selections
 Features eliminations
 
-#### Conceitos de Machine Learning
+### Conceitos de Machine Learning
 
 | Titulo | Tipo | Nível | Qualidade | Link | Descrição
 |--|--|--|--|--|--|
 | An introduction to machine learning with scikit-learn | Tutorial | Avançado | 5 | [Link](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) | Muito bom
-**Tipos de aprendizado**: Há três principais tipos de aprendizados, supervisionado, não supervisionado e por reforço. O mais comum é o aprendizado supervisionado, porém é sempre bom conhecer os outros, pois vai depender muito da abordagem do seu problema e da disponibilização dos dados.
+
+#### Tipos de aprendizado
+
+Há três principais tipos de aprendizados, supervisionado, não supervisionado e por reforço. O mais comum é o aprendizado supervisionado, porém é sempre bom conhecer os outros, pois vai depender muito da abordagem do seu problema e da disponibilização dos dados.
 
 | Titulo | Tipo | Nível | Qualidade | Link | Descrição
 |--|--|--|--|--|--|
