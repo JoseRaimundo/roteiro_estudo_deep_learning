@@ -10,7 +10,7 @@ Atualmente Python é uma das principais linguagens de programação para quem de
 | Titulo | Tipo | Nível | Qualidade | Link | Descrição
 |--|--|--|--|--|--|
 | Pycubator | Curso | Iniciante | 4 | [Link](http://df.python.org.br/pycubator/index.html)| Curso rápido bem completo
-|Python para Zumbis|Curso|4|Iniciante| [Link](https://www.pycursos.com/python-para-zumbis/)| Curso básico
+|Python para Zumbis|Curso|Iniciante | 4 | [Link](https://www.pycursos.com/python-para-zumbis/)| Curso básico
 
 #### Bibliotecas Python
 
