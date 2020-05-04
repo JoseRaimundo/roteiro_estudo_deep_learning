@@ -12,6 +12,18 @@ Atualmente Python é uma das principais linguagens de programação para quem de
 | Pycubator | Curso | Iniciante | 4 | [Link](http://df.python.org.br/pycubator/index.html)| Curso rápido bem completo
 |Python para Zumbis|Curso|4|Iniciante| [Link](https://www.pycursos.com/python-para-zumbis/)| Curso básico
 
+#### Bibliotecas Python
+
+Nesta tabela estão as principais bibliotecas que serão utilizada/explicadas neste tutoria. É importante lembrar que elas não são as únicas, é sempre bom dá oportunidade para outras bibliotecas/linguagens/técnicas.
+
+| Titulo | Tipo | Nível | Qualidade | Link | Descrição
+|--|--|--|--|--|--|
+| Pandas | Manipulação de dados | Iniciante | 5 | [Link](https://pandas.pydata.org/)| Completa para dataset volumosos
+| Numpy | Manipulação de dados | Iniciante | 4 | [Link](https://numpy.org/)| Fácil de usar
+| Pyplot | Visualização | Iniciante | 4 | [Link](https://matplotlib.org/index.html)| Prática e fácil
+| Plotly | Visualização | Avançado | 5 | [Link](https://plotly.com/)| Gráficos muito bonitos e dinâmicos
+| Sklearn | Machine learning | Avançado | 4 | [Link](https://scikit-learn.org/stable/)| Tem ótimas ferramentas
+| Tensorflow | Deep learning | Avançado | 5 | [Link](https://www.tensorflow.org/)| Uma das melhores de deep learning
 
 
 #### Manipulação de dados
@@ -180,22 +192,6 @@ Rede Neural Profunda
 Rede Neural Convolucional
  - [Teoria - muito bom - bom para aprender](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
-#### Bibliotecas
-
-Manipulação de dados
- - Pandas 
- - Numpy
- 
-Visualização:
- - Plotly 
- - Pyplot
- 
-Machine learning:
- - Sklearn
-
-Deep learning::
- - Tensorflow
- - Pytorch
 
 
 
