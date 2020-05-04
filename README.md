@@ -1,5 +1,5 @@
 
-### Descrição do repositório
+## Descrição do repositório
 
 O objetivo desse repositório é oferecer um roteiro de estudo para deep learning, que possa ser utilizado para iniciantes ou para consultas. Sinta-se convidado para colaborar caso tenha algo para compartilhar, criticar ou corrigir.
 
@@ -26,7 +26,7 @@ Nesta tabela estão as principais bibliotecas que serão utilizada/explicadas ne
 | Tensorflow | Deep learning | Avançado | 5 | [Link](https://www.tensorflow.org/)| Uma das melhores de deep learning
 
 
-#### Manipulação de dados
+### Manipulação de dados
 
 **Obtenção**: O acesso aos dados pode ser realizado de diversas maneiras, seja por um arquivo no seu computador ou por um serviço API online ( como uma requisição HTTP GET). Normalmente, a forma mais comum de obter dados, é por meio de um arquivo **.csv**.
 
@@ -66,7 +66,9 @@ Resultado:
 A seção anterior e está se complementam, pois ambas envolvem seus conhecimentos e habilidades para trabalhar com as bibliotecas de manipulação de dados, tais como Pandas, Numpy e etc.
 
 
-**Limpeza de dados**: Consiste na eliminação de dados nulos. Durante a limpeza, é preciso analisar cuidadosamente a distribuição dos dados nulos: 
+#### Limpeza de dados
+
+A limpeza consiste na eliminação de dados nulos. Durante a limpeza, é preciso analisar cuidadosamente a distribuição dos dados nulos: 
 
  - Eliminação horizontal (de linhas) representa a redução de amostras do dataset, este tipo de eliminação é recomendado quando a linha apresenta muitos campos nulos, o que torna seu uso inviável.
  - Eliminação vertical (da coluna, ou feature). Esta redução é recomendada quando várias linhas (várias mesmo) apresentam valores nulos na mesma coluna, para este tipo de remoção é preciso conhecer a relevância da coluna em relação ao problema, pois ao eliminar uma feature importante é possível dificultar o aprendizado do modelo. 
@@ -101,8 +103,14 @@ Há três principais tipos de aprendizados, supervisionado, não supervisionado 
 | Tipos de aprendizagem | Tutorial | Iniciante | 4 | [Link](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf) | Bom para aprender
 
 
+#### Tipos de Abordagem
 
-#### Métricas
+##### Classificação
+
+##### Regressão
+
+
+### Métricas
 
 Mais a frente eu explico resumidamente as métricas utilizando o poster apresentado por Paulo Vasconcelos [link](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b). Porém estes links na tabela são ótimos, recomendo a leitura.
 
@@ -153,7 +161,7 @@ Estes métricas dão a ideia de quão bem as classes estão separadas como expli
 
 ![enter image description here](https://miro.medium.com/max/1312/0*OsG9Go7PzMWu5DNP)
 
-#### Cross Validation
+### Cross Validation
 
 Cross-Validation é uma das melhores técnicas para saber se o seu modelo generaliza bem. Quando você executa seu modelo várias vezes, pode receber valores diferentes devido a vários fatores (dataset, quantidade de épocas, modelo ruim e etc).  **Esse é um tipo de problema que você pode resolver com o Cross-Validation**.  Essa técnica que visa entender como seu modelo generaliza, ou seja, como ele se comporta quando vai prever um dado que nunca viu. 
 
@@ -166,17 +174,34 @@ Existem vários métodos de Cross-Validation, aqui vamos ver apenas o K-Fold, es
 
 No exemplo acima, o dataset foi dividido em 5 partes, para cada uma dessas partes, o modelo irá usar 4 partes (K-1) para treinar, enquanto usará 1 parte para validar. Ao final do processo, quando o modelo iterar/treinar 5 vezes, você terá um verdadeiro score de como seu modelo está generalizando, geralmente ao tirar a média e desvio padrão de todos os treinos realizados. Esse processo faz com que o treino demore um pouco mais, mas é crucial para ter certeza de que seus dados estão generalizando bem.
 
-#### Teoria Redes Neurais Artificiais
+### Redes Neurais Artificiais: Teoria
+
+Apesar das bibliotecas oferecer um alto nível de abstração, deixando que você fique livre da implementação das funções e estruturas da Rede, é importante ter o mínimo de conhecimento sobre o que é e como funciona uma rede neural artificial, uma vez que tais conhecimentos poderão te ajudar a entender como configurar sua rede e como corrigir alguma problemas de eficiência.
+
+AVISO: A maior parte das explicações utilizadas nesta parte foram retiradas do site [http://deeplearningbook.com.br/](http://deeplearningbook.com.br/). Recomendo a leitura do conteúdo deles, é muito bom e e completo.
+
+#### Neurônio artificial
+
+O neurônio artificial assim como a própria rede neural, são estruturas que tentam simular o funcionamento do seus originais biológicos que há no cérebro humano.
+
+Resumidamente, um neurônio artificial é um componente que calcula a soma ponderada de vários inputs, aplica uma função e passa o resultado adiante. Como é ilustrado no diagrama a seguir, o neurônio artificial consiste em um sinal de entrada (representado pela letra X).
+
+continua ... 
+
+![enter image description here](https://i0.wp.com/deeplearningbook.com.br/wp-content/uploads/2018/01/neuronio-matematico.png?w=543)
+
+#### Funções de ativações
+####  BackPropagation
+Topologias de redes
+Rede MLP
+
+
+
 
 | Titulo | Tipo | Nível | Qualidade | Link | Descrição
 |--|--|--|--|--|--|
 | Deep-learning book | Curso | Ini - Avançado | 5 | [Link](http://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/) | Se você tiver tempo, lei todos os capítulos
 
-Neurônio artificial
-Funções de ativações
-Propagation
-Topologias de redes
-Rede MLP
 
 
 #### Deep Learning
