@@ -1,13 +1,10 @@
 
 ### Descrição do repositório
 
-
 O objetivo desse repositório é oferecer um roteiro de estudo para deep learning, que possa ser utilizado para iniciantes ou para consultas. Sinta-se convidado para colaborar caso tenha algo para compartilhar, criticar ou corrigir.
 
+### Linguagem de Programação  Python
 
-### Linguagem de Programação
-
-#### Python
 Atualmente Python é uma das principais linguagens de programação para quem deseja trabalhar com Machine Learning. Esta linguagem oferece uma abstração mais clara e fácil de usar, possibilitando uma curva de aprendizado maior. As melhores bibliotecas  de ML mais  oferecem interface de aplicação para que você possa programar em Python e, ao executar o código, elas utilizam funções em C/C++ por baixo dos panos, devido à velocidade destas linguagens. 
 
 | Titulo | Tipo | Nível | Qualidade | Link | Descrição
@@ -54,17 +51,33 @@ Resultado:
 
 ### Data mining
 
-Limpeza de dados
+A seção anterior e está se complementam, pois ambas envolvem seus conhecimentos e habilidades para trabalhar com as bibliotecas de manipulação de dados, tais como Pandas, Numpy e etc.
+
+
+**Limpeza de dados**: Consiste na eliminação de dados nulos. Durante a limpeza, é preciso analisar cuidadosamente a distribuição dos dados nulos: 
+
+ - Eliminação horizontal (de linhas) representa a redução de amostras do dataset, este tipo de eliminação é recomendado quando a linha apresenta muitos campos nulos, o que torna seu uso inviável.
+ - Eliminação vertical (da coluna, ou feature). Esta redução é recomendada quando várias linhas (várias mesmo) apresentam valores nulos na mesma coluna, para este tipo de remoção é preciso conhecer a relevância da coluna em relação ao problema, pois ao eliminar uma feature importante é possível dificultar o aprendizado do modelo. 
+
 Padronização de dados
 Tipos de dados
 Features selections
 Features eliminations
+
+
+| Titulo | Tipo | Nível | Qualidade | Link | Descrição
+|--|--|--|--|--|--|
+| An introduction to machine learning with scikit-learn | Tutorial | Avançado | 5 | [Link](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) | Muito bom
+
+
+
 
 ### Conceitos de Machine Learning
 
 | Titulo | Tipo | Nível | Qualidade | Link | Descrição
 |--|--|--|--|--|--|
 | An introduction to machine learning with scikit-learn | Tutorial | Avançado | 5 | [Link](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) | Muito bom
+
 
 #### Tipos de aprendizado
 
@@ -188,8 +201,21 @@ Deep learning::
 
 #### Práticas
 
+| Titulo | Tipo | Nível | Qualidade | Link | Descrição
+|--|--|--|--|--|--|
+| DATA EXPLORATION WITH PYTHON | Tutorial | Avançado | 5 | [Link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)| Muito muito completo
+| Mineração de dados | Tutorial | Avançado | 5 | [Link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)| Muito bom e completo
+| xx | Curso | Avançado | 5 | Link| xx
+| xx | Curso | Avançado | 5 | Link| xx
+| xx | Curso | Avançado | 5 | Link| xx
+| xx | Curso | Avançado | 5 | Link| xx
 
-#### Extra
+#### Recomendações
 
- -  [Repositório que reúne vários conteúdos de data science](https://github.com/PizzaDeDados/datascience-pizza)
- - [Repositório que reúne vários conteúdos de machine learning](https://github.com/PizzaDeDados/datascience-pizza/blob/master/topicos/aprendizado-de-maquina.md)
+| Titulo | Tipo | Nível | Qualidade | Link | Descrição
+|--|--|--|--|--|--|
+| Datascience pizza | Dataset | Intermediário | 5 | [Link](https://github.com/PizzaDeDados/datascience-pizza)| Muito bom para explorar
+| Kaggle | Dataset | Intermediário | 5 | [Link](https://www.kaggle.com/)| Tutoriais, competições datasets e etc.
+| xx | Dataset | Intermediário | 5 | Link| xxx
+| xx | Curso | Avançado | 5 | Link| xx
+
