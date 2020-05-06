@@ -7,23 +7,23 @@ O objetivo desse repositório é oferecer um roteiro de estudo para deep learnin
 
 Atualmente Python é uma das principais linguagens de programação para quem deseja trabalhar com Machine Learning. Esta linguagem oferece uma abstração mais clara e fácil de usar, possibilitando uma curva de aprendizado maior. As melhores bibliotecas  de ML mais  oferecem interface de aplicação para que você possa programar em Python e, ao executar o código, elas utilizam funções em C/C++ por baixo dos panos, devido à velocidade destas linguagens. 
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| Pycubator | Curso | Iniciante | 4 | [Link](http://df.python.org.br/pycubator/index.html)| Curso rápido bem completo
-|Python para Zumbis|Curso|Iniciante | 4 | [Link](https://www.pycursos.com/python-para-zumbis/)| Curso básico
+| Titulo | Tipo | Nível |  Link | Descrição
+|--|--|--|--|--|
+| Pycubator | Curso | Iniciante | [Link](http://df.python.org.br/pycubator/index.html)| Curso rápido bem completo
+|Python para Zumbis|Curso|Iniciante |  [Link](https://www.pycursos.com/python-para-zumbis/)| Curso básico
 
 #### Bibliotecas Python
 
 Nesta tabela estão as principais bibliotecas que serão utilizada/explicadas neste tutoria. É importante lembrar que elas não são as únicas, é sempre bom dá oportunidade para outras bibliotecas/linguagens/técnicas.
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
+| Titulo | Tipo | Nível |  Link | Descrição
 |--|--|--|--|--|--|
-| Pandas | Manipulação de dados | Iniciante | 5 | [Link](https://pandas.pydata.org/)| Completa para dataset volumosos
-| Numpy | Manipulação de dados | Iniciante | 4 | [Link](https://numpy.org/)| Fácil de usar
-| Pyplot | Visualização | Iniciante | 4 | [Link](https://matplotlib.org/index.html)| Prática e fácil
-| Plotly | Visualização | Avançado | 5 | [Link](https://plotly.com/)| Gráficos muito bonitos e dinâmicos
-| Sklearn | Machine learning | Avançado | 4 | [Link](https://scikit-learn.org/stable/)| Tem ótimas ferramentas
-| Tensorflow | Deep learning | Avançado | 5 | [Link](https://www.tensorflow.org/)| Uma das melhores de deep learning
+| Pandas | Manipulação de dados | Iniciante |  [Link](https://pandas.pydata.org/)| Completa para dataset volumosos
+| Numpy | Manipulação de dados | Iniciante | [Link](https://numpy.org/)| Fácil de usar
+| Pyplot | Visualização | Iniciante | [Link](https://matplotlib.org/index.html)| Prática e fácil
+| Plotly | Visualização | Avançado |  [Link](https://plotly.com/)| Gráficos muito bonitos e dinâmicos
+| Sklearn | Machine learning | Avançado |  [Link](https://scikit-learn.org/stable/)| Tem ótimas ferramentas
+| Tensorflow | Deep learning | Avançado |  [Link](https://www.tensorflow.org/)| Uma das melhores de deep learning
 
 
 ### Manipulação de dados
@@ -41,11 +41,11 @@ Exemplo de acesso a dados em arquivo csv. Mais detalhes ([link](https://www.link
 
 
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| 28 comandos rápidos | Tutorial | Intermediário | 4 | [Link](https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93)| Conteúdo para acesso rápido - bom
-|Introdução ao Pandas | Tutorial | Intermediário| 4 | [Link](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)| Muito bom para estudar
-|A Complete Introduction| Tutorial| Intermediário| 3 | [Link](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)| Só use se quiser se aprofundar
+| Titulo | Tipo | Nível | Link | Descrição
+|--|--|--|--|--|
+| 28 comandos rápidos | Tutorial | Intermediário | [Link](https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93)| Conteúdo para acesso rápido - bom
+|Introdução ao Pandas | Tutorial | Intermediário|  [Link](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)| Muito bom para estudar
+|A Complete Introduction| Tutorial| Intermediário| [Link](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)| Só use se quiser se aprofundar
 
 **Salvando dados**: As vezes é necessário salvar o dataframe pandas ou até mesmo outros dados que você quer manter registrado em arquivo, veja o exemplo para salvar em csv (Mais detalhes [link](https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1)).
 
@@ -79,28 +79,28 @@ Features selections
 Features eliminations
 
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| An introduction to machine learning with scikit-learn | Tutorial | Avançado | 5 | [Link](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) | Muito bom
+| Titulo | Tipo | Nível | Link | Descrição
+|--|--|--|--|--|
+| An introduction to machine learning with scikit-learn | Tutorial | Avançado | [Link](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) | Muito bom
 
 
 
 
 ### Conceitos de Machine Learning
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| An introduction to machine learning with scikit-learn | Tutorial | Avançado | 5 | [Link](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) | Muito bom
+| Titulo | Tipo | Nível | Link | Descrição
+|--|--|--|--|--|
+| An introduction to machine learning with scikit-learn | Tutorial | Avançado | [Link](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) | Muito bom
 
 
 #### Tipos de aprendizado
 
 Há três principais tipos de aprendizados, supervisionado, não supervisionado e por reforço. O mais comum é o aprendizado supervisionado, porém é sempre bom conhecer os outros, pois vai depender muito da abordagem do seu problema e da disponibilização dos dados.
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| Os Três Tipos de ML | Tutorial | Iniciante | 4 | [Link](https://lamfo-unb.github.io/2017/07/27/tres-tipos-am/)| Bom para aprender
-| Tipos de aprendizagem | Tutorial | Iniciante | 4 | [Link](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf) | Bom para aprender
+| Titulo | Tipo | Nível  | Link | Descrição
+|--|--|--|--|--|
+| Os Três Tipos de ML | Tutorial | Iniciante |  [Link](https://lamfo-unb.github.io/2017/07/27/tres-tipos-am/)| Bom para aprender
+| Tipos de aprendizagem | Tutorial | Iniciante | [Link](https://medium.com/brasil-ai/tipos-de-aprendizagem-1c1339f73bdf) | Bom para aprender
 
 
 #### Tipos de Abordagem
@@ -115,12 +115,12 @@ Há três principais tipos de aprendizados, supervisionado, não supervisionado 
 Mais a frente eu explico resumidamente as métricas utilizando o poster apresentado por Paulo Vasconcelos [link](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b). Porém estes links na tabela são ótimos, recomendo a leitura.
 
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| Avaliando o modelo de ML | Tutorial | Intermediário | 5 | [Link](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b) | Muito bom
-| Matriz de Confusão e AUC ROC | Tutorial | Intermediário | 5 | [Link](https://medium.com/data-hackers/matriz-de-confus%C3%A3o-e-auc-roc-f7e446dca107) | Bem completo
-|As Métricas Mais Populares| Tutorial | Intermediário | 4| [Link](https://www.mariofilho.com/as-metricas-mais-populares-para-avaliar-modelos-de-machine-learning/)| Explicação mais direta
-|As Métricas Mais Comuns de ML| Tutorial | Intermediário | 5| [Link](https://medium.com/as-m%C3%A1quinas-que-pensam/m%C3%A9tricas-comuns-em-machine-learning-como-analisar-a-qualidade-de-chat-bots-inteligentes-introdu-57ff30424192)| Leia todos os 4 postes
+| Titulo | Tipo | Nível |  Link | Descrição
+|--|--|--|--|--|
+| Avaliando o modelo de ML | Tutorial | Intermediário | [Link](https://paulovasconcellos.com.br/como-saber-se-seu-modelo-de-machine-learning-est%C3%A1-funcionando-mesmo-a5892f6468b) | Muito bom
+| Matriz de Confusão e AUC ROC | Tutorial | Intermediário | [Link](https://medium.com/data-hackers/matriz-de-confus%C3%A3o-e-auc-roc-f7e446dca107) | Bem completo
+|As Métricas Mais Populares| Tutorial | Intermediário | [Link](https://www.mariofilho.com/as-metricas-mais-populares-para-avaliar-modelos-de-machine-learning/)| Explicação mais direta
+|As Métricas Mais Comuns de ML| Tutorial | Intermediário |[Link](https://medium.com/as-m%C3%A1quinas-que-pensam/m%C3%A9tricas-comuns-em-machine-learning-como-analisar-a-qualidade-de-chat-bots-inteligentes-introdu-57ff30424192)| Leia todos os 4 postes
 
 
 #### Matriz de confusão
@@ -198,9 +198,10 @@ Rede MLP
 
 
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| Deep-learning book | Curso | Ini - Avançado | 5 | [Link](http://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/) | Se você tiver tempo, lei todos os capítulos
+| Titulo | Tipo | Nível  | Link | Descrição
+|--|--|--|--|--|
+| Neuronio Artificial | Tutorial | Intermediario| [Link](https://www.gsigma.ufsc.br/~popov/aulas/rna/neuronio_artificial/index.html) | Explicação bem clara
+| Deep-learning book | Curso | Ini - Avançado |  [Link](http://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/) | Se você tiver tempo, lei todos os capítulos
 
 
 
@@ -222,21 +223,20 @@ Rede Neural Convolucional
 
 #### Práticas
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| DATA EXPLORATION WITH PYTHON | Tutorial | Avançado | 5 | [Link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)| Muito muito completo
-| Mineração de dados | Tutorial | Avançado | 5 | [Link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)| Muito bom e completo
-| xx | Curso | Avançado | 5 | Link| xx
-| xx | Curso | Avançado | 5 | Link| xx
-| xx | Curso | Avançado | 5 | Link| xx
-| xx | Curso | Avançado | 5 | Link| xx
+| Titulo | Tipo | Nível  | Link | Descrição
+|--|--|--|--|--|
+| DATA EXPLORATION WITH PYTHON | Tutorial | Avançado | [Link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)| Muito muito completo
+| Mineração de dados | Tutorial | Avançado | [Link](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)| Muito bom e completo
+| xx | Curso | Avançado | Link| xx
+| xx | Curso | Avançado |  Link| xx
+
 
 #### Recomendações
 
-| Titulo | Tipo | Nível | Qualidade | Link | Descrição
-|--|--|--|--|--|--|
-| Datascience pizza | Dataset | Intermediário | 5 | [Link](https://github.com/PizzaDeDados/datascience-pizza)| Muito bom para explorar
-| Kaggle | Dataset | Intermediário | 5 | [Link](https://www.kaggle.com/)| Tutoriais, competições datasets e etc.
-| xx | Dataset | Intermediário | 5 | Link| xxx
-| xx | Curso | Avançado | 5 | Link| xx
+| Titulo | Tipo | Nível  | Link | Descrição
+|--|--|--|--|--|
+| Datascience pizza | Dataset | Intermediário | [Link](https://github.com/PizzaDeDados/datascience-pizza)| Muito bom para explorar
+| Kaggle | Dataset | Intermediário | [Link](https://www.kaggle.com/)| Tutoriais, competições datasets e etc.
+| xx | Dataset | Intermediário  | Link| xxx
+| xx | Curso | Avançado  | Link| xx
 
