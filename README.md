@@ -75,6 +75,19 @@ A limpeza consiste na eliminação de dados nulos. Durante a limpeza, é preciso
 
 Padronização de dados
 Tipos de dados
+
+
+### Matriz de correlação
+
+A matriz de correlação é uma abordagens mais comuns para uma análise prévia da relação entre as features. Uma correlação positiva indica que ambas as features se movem na mesma direção e uma correlação negativa indica que as features se movem em direções opostas, ou seja, quando o valor de uma feature aumenta, o valor da outra feaure diminui. A correlação também pode ser nula ou zero, o que significa que as variáveis não estão relacionadas.
+
+| Titulo | Tipo | Nível | Link | Descrição
+|--|--|--|--|--|
+| Sobre Correlações | Intermediário | [Link](https://rstudio-pubs-static.s3.amazonaws.com/437792_df39a5ff0a55491fb71f0f4a0f5cd0bf.html) | Muito bom
+| Como selecionar as melhores features | Intermediário | [Link](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec) | Muito bom
+
+
+
 Features selections
 Features eliminations
 
