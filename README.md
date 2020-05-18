@@ -7,17 +7,19 @@ O objetivo desse repositório é oferecer um roteiro de estudo para deep learnin
 
 Atualmente Python é uma das principais linguagens de programação para quem deseja trabalhar com Machine Learning. Esta linguagem oferece uma abstração mais clara e fácil de usar, possibilitando uma curva de aprendizado maior. As melhores bibliotecas  de ML mais  oferecem interface de aplicação para que você possa programar em Python e, ao executar o código, elas utilizam funções em C/C++ por baixo dos panos, devido à velocidade destas linguagens. 
 
+
 | Titulo | Tipo | Nível |  Link | Descrição
 |--|--|--|--|--|
 | Pycubator | Curso | Iniciante | [Link](http://df.python.org.br/pycubator/index.html)| Curso rápido bem completo
-|Python para Zumbis|Curso|Iniciante |  [Link](https://www.pycursos.com/python-para-zumbis/)| Curso básico
+|Python para Zumbis| Curso | Iniciante |  [Link](https://www.pycursos.com/python-para-zumbis/)| Curso básico
 
 #### Bibliotecas Python
 
 Nesta tabela estão as principais bibliotecas que serão utilizada/explicadas neste tutoria. É importante lembrar que elas não são as únicas, é sempre bom dá oportunidade para outras bibliotecas/linguagens/técnicas.
 
+
 | Titulo | Tipo | Nível |  Link | Descrição
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 | Pandas | Manipulação de dados | Iniciante |  [Link](https://pandas.pydata.org/)| Completa para dataset volumosos
 | Numpy | Manipulação de dados | Iniciante | [Link](https://numpy.org/)| Fácil de usar
 | Pyplot | Visualização | Iniciante | [Link](https://matplotlib.org/index.html)| Prática e fácil
